@@ -12,6 +12,7 @@ namespace SmsService
 
         public string CompanyName { get; set; }
 
+        public DateTime CreateTime { get; set; }
 
 
     }
